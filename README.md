@@ -30,6 +30,27 @@ Relational database designed with MSSQL including constraints, triggers, and rea
 
 Built with C (Winsock). Supports HTTP requests and HTTPS tunneling using CONNECT method.
 
+## 🤝 Team Project
+
+### 🧠 Gallstone Prediction (KNN - Machine Learning)
+
+This project was developed as a team collaboration and prepared as part of a **TÜBİTAK research project submission**.
+
+🔗 Repository: https://github.com/huseyinky40/gallstone-prediction-knn-analysis
+
+📌 My Contribution:
+
+* Data preprocessing
+* Model implementation (KNN)
+* Analysis and evaluation
+
+🛠️ Technologies:
+
+* Python
+* Scikit-learn
+* Pandas
+
+
 ---
 
 ## 📚 Currently Learning
@@ -40,6 +61,9 @@ Built with C (Winsock). Supports HTTP requests and HTTPS tunneling using CONNECT
 
 ---
 
-## 📫 Contact
+## ## 📬 Contact
 
-* GitHub: https://github.com/AdaSari34
+* 📧 Email: [sevvalsari1@icloud.com](mailto:sevvalsari1@icloud.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/https://www.linkedin.com/in/ada-%C5%9Fevval-sari-81543b312/
+* 💻 GitHub: https://github.com/AdaSari34
+
