@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ada
+# Hi  I'm Ada
 
 🎓 Computer Engineering Student at Istanbul Arel University
 💻 Interested in Data Science, Databases and Backend Systems
