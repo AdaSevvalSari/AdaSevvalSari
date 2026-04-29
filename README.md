@@ -32,6 +32,10 @@ Relational database system designed with MSSQL including constraints, triggers, 
 
 Java-based system for managing vehicles, customers, and reservations.
 
+### 📡 WSN Communication Theory Simulation
+
+Simulation project analyzing BER, SNR, and Shannon capacity in Wireless Sensor Networks with visualized results.
+
 ---
 
 ## 🤝 Team Project
@@ -42,11 +46,7 @@ Developed as part of a team project prepared for a **TÜBİTAK research submissi
 
 🔗 https://github.com/huseyinky40/gallstone-prediction-knn-analysis
 
-**My contribution:**
 
-* Data preprocessing
-* KNN model implementation
-* Model evaluation & analysis
 
 ---
 
