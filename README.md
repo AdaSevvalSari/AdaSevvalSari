@@ -21,9 +21,14 @@ I enjoy building real-world projects and continuously improving my skills.
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Database
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -59,6 +64,10 @@ Developed as part of a team project prepared for a **TÜBİTAK research submissi
 ### 🖼️ Image Segmentation Comparison
 A comparative study of **6 classical image segmentation algorithms** (Otsu, Adaptive, Canny, GrabCut, K-Means, Watershed) implemented in Python/OpenCV for automatic background removal on product photographs.  
 🔗 https://github.com/huseyinky40/image-segmentation-comparison
+
+### 📄 CVision — AI-Powered CV Analyzer & Career Recommendation Platform
+A SaaS-based platform that helps students and job seekers analyze and improve their CVs before applying for internships and jobs. Features include CV scoring, ATS compatibility evaluation, personalized improvement suggestions, and career role recommendations. Built with a modular architecture supporting multi-user data isolation and background processing. 
+🔗 https://github.com/fatihcatalcam/CVision
 
 ---
 
