@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ada
+# Hi, I'm Ada
 
 🎓 Computer Engineering Student  
 Interested in backend development, database systems, and machine learning.  
