@@ -1,8 +1,8 @@
 # Hi, I'm Ada
 
 🎓 Computer Engineering Student  
-Interested in backend development, database systems, and machine learning.  
-I enjoy building real-world projects and continuously improving my skills.
+Interested in backend development, database systems, machine learning, and building real-world software projects.  
+I enjoy designing practical applications, working with APIs and databases, and continuously improving my technical skills.
 
 ---
 
@@ -11,25 +11,37 @@ I enjoy building real-world projects and continuously improving my skills.
 **Languages:**  
 Java, Python, C, JavaScript, HTML5, CSS3
 
-**Frameworks & Tools:**  
-React, Node.js, FastAPI
+**Backend & Tools:**  
+Node.js, Express.js, FastAPI, REST APIs, JWT Authentication, Swagger/OpenAPI
 
-**Database:**  
-MSSQL, PostgreSQL
+**Frontend:**  
+Vanilla JavaScript, React, HTML5, CSS3
 
-**Data Science & ML:**  
-Pandas, Scikit-learn
+**Databases:**  
+SQLite, MSSQL, PostgreSQL
+
+**Data Science & Machine Learning:**  
+Pandas, Scikit-learn, OpenCV
+
+**Other Tools:**  
+Git, GitHub, GitHub Actions, Jest, ESLint
 
 ---
 
 ## 📌 Featured Projects
 
+### 💳 Subscription Radar
+A full-stack personal finance web application for tracking recurring subscriptions, renewal dates, usage value, and potential savings.  
+Built with **Node.js, Express, SQLite, JWT authentication, Swagger API documentation, Jest tests, and a Vanilla JavaScript frontend**.
+
+🔗 https://github.com/AdaSevvalSari/Subscription-Radar
+
 ### 🌐 TCP Proxy Server
 Multi-threaded TCP proxy server built in C using Winsock.  
-Supports HTTP forwarding and HTTPS tunneling via CONNECT method.
+Supports HTTP forwarding and HTTPS tunneling via the CONNECT method.
 
 ### 🌍 Disaster Management Database
-Relational database system designed with MSSQL including constraints, triggers, and real-world relationships.
+Relational database system designed with MSSQL including constraints, triggers, and real-world entity relationships.
 
 ### 🚗 Car Rental System
 Java-based system for managing vehicles, customers, and reservations.
@@ -46,21 +58,25 @@ Developed as part of a team project prepared for a **TÜBİTAK research submissi
 🔗 https://github.com/huseyinky40/gallstone-prediction-knn-analysis
 
 ### 🖼️ Image Segmentation Comparison
-A comparative study of **6 classical image segmentation algorithms** (Otsu, Adaptive, Canny, GrabCut, K-Means, Watershed) implemented in Python/OpenCV for automatic background removal on product photographs.  
+A comparative study of **6 classical image segmentation algorithms**: Otsu, Adaptive Thresholding, Canny, GrabCut, K-Means, and Watershed.  
+Implemented in Python/OpenCV for automatic background removal on product photographs.  
 🔗 https://github.com/huseyinky40/image-segmentation-comparison
 
 ### 📄 CVision — AI-Powered CV Analyzer & Career Recommendation Platform
-A SaaS-based platform that helps students and job seekers analyze and improve their CVs before applying for internships and jobs. Features include CV scoring, ATS compatibility evaluation, personalized improvement suggestions, and career role recommendations. Built with a modular architecture supporting multi-user data isolation and background processing. 
+A SaaS-based platform that helps students and job seekers analyze and improve their CVs before applying for internships and jobs.  
+Features include CV scoring, ATS compatibility evaluation, personalized improvement suggestions, and career role recommendations.  
+Built with a modular architecture supporting multi-user data isolation and background processing.  
 🔗 https://github.com/fatihcatalcam/CVision
 
 ---
 
 ## 📚 Currently Learning
 
-* Machine Learning & Data Science
+* Backend Development
 * Advanced Database Systems
+* Machine Learning & Data Science
 * Network Programming
-* Web Development (Frontend & UI Design)
+* Web Development and UI Design
 
 ---
 
@@ -68,4 +84,4 @@ A SaaS-based platform that helps students and job seekers analyze and improve th
 
 * 📧 Email: [sevvalsari1@icloud.com](mailto:sevvalsari1@icloud.com)
 * 💼 LinkedIn: [Ada Şevval Sarı](https://www.linkedin.com/in/ada-%C5%9Fevval-sari-81543b312/)
-* 💻 GitHub: https://github.com/AdaSevvalSari
+* 💻 GitHub: [AdaSevvalSari](https://github.com/AdaSevvalSari)
