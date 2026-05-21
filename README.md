@@ -12,29 +12,24 @@ I enjoy designing practical applications, working with APIs and databases, and c
 Java, Python, C, JavaScript, HTML5, CSS3
 
 **Backend & Tools:**  
-Node.js, Express.js, FastAPI, REST APIs, JWT Authentication, Swagger/OpenAPI
+FastAPI, REST APIs, Swagger/OpenAPI
 
 **Frontend:**  
 Vanilla JavaScript, React, HTML5, CSS3
 
 **Databases:**  
-SQLite, MSSQL, PostgreSQL
+SQLite, MSSQL
 
 **Data Science & Machine Learning:**  
 Pandas, Scikit-learn, OpenCV
 
-**Other Tools:**  
-Git, GitHub, GitHub Actions, Jest, ESLint
+
 
 ---
 
 ## 📌 Featured Projects
 
-### 💳 Subscription Radar
-A full-stack personal finance web application for tracking recurring subscriptions, renewal dates, usage value, and potential savings.  
-Built with **Node.js, Express, SQLite, JWT authentication, Swagger API documentation, Jest tests, and a Vanilla JavaScript frontend**.
 
-🔗 https://github.com/AdaSevvalSari/Subscription-Radar
 
 ### 🌐 TCP Proxy Server
 Multi-threaded TCP proxy server built in C using Winsock.  
