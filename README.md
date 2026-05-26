@@ -57,11 +57,7 @@ A comparative study of **6 classical image segmentation algorithms**: Otsu, Adap
 Implemented in Python/OpenCV for automatic background removal on product photographs.  
 🔗 https://github.com/huseyinky40/image-segmentation-comparison
 
-### 📄 CVision — AI-Powered CV Analyzer & Career Recommendation Platform
-A SaaS-based platform that helps students and job seekers analyze and improve their CVs before applying for internships and jobs.  
-Features include CV scoring, ATS compatibility evaluation, personalized improvement suggestions, and career role recommendations.  
-Built with a modular architecture supporting multi-user data isolation and background processing.  
-🔗 https://github.com/fatihcatalcam/CVision
+
 
 ---
 
